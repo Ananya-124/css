@@ -1,14 +1,50 @@
-.heading{
-    
-    text-align: center;
-
+*{
+    background-color: bisque;
 }
-.blue{
-    color:blue;
+
+.rect{
+    background-color: azure;
+    width: 400px;
+    height: 270px;
+    border:1px solid white;
+    position: relative;
+    top: 170px;
+    left:290px;
+}
+.saff{
+    background-color: rgb(255,103,31);
+    width:400px;
+    height: 90px;
+}
+.white{
+    background-color: #FFFFFF;
+    width:400px;
+    height:90px;
+}
+div>img{
+    width:70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-left: 165px;
+    margin-top: 15px;
 }
 .green{
-    color:green;
+    background-color: #046A38;
+    width:400px;
+    height: 90px;
+    
+    
 }
-.red{
-    color:red;
-}
+.stick{
+    background-color: rgb(49, 8, 8);
+    width:400px;
+    height: 400px;
+    border: 2px solid brown;
+    }
+
+
+
+
+
+
+    
