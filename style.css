@@ -1,7 +1,3 @@
-* {
-  background-color: rgb(126, 107, 107);
-}
-
 .rect {
   background-color: azure;
   width: 400px;
@@ -9,7 +5,7 @@
   border: 1px solid white;
   position: relative;
   top: 170px;
-  left: 290px;
+  left: 520px;
 }
 .saff {
   background-color: rgb(255, 103, 31);
@@ -26,10 +22,14 @@ div > img {
   height: 70px;
   border-radius: 50%;
   margin-left: 165px;
-  margin-top: 15px;
+  margin-top: 13px;
 }
 .green {
   background-color: #046a38;
   width: 400px;
   height: 90px;
 }
+body{
+  background-color: gray;
+}
+
