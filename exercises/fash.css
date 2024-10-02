@@ -1,26 +1,23 @@
-.cat{
-    background-color: aqua;
-    float: left;
-    height: 450px;
+#title{
+    color: rgb(255, 187, 0);
 }
-.dog{
-    float: right;
-    background-color: orange;
+#ele{
+    font-weight: bolder;
+    font-size: 4rem;
 }
-img{
-    float: left;
-}
-div{
+.main{
     display: inline-block;
+}
+body{
     width: 40%;
 }
-p{
-    font-size: 2rem;
+.flow{
+    width: 200px;
+    height: 200px;
+    float: left;
 }
-footer{
-       clear: both;
-       text-align: center;
-       background-color: red;
-       color: blue;
-       font-size: 1rem;
+.cons{
+    width: 200px;
+    height: 200px;
+    float: right;
 }
