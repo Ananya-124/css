@@ -1,23 +1,12 @@
-#title{
-    color: rgb(255, 187, 0);
+.container{
+      display: flex;
+      background-color: yellow;
+      gap: 10px;
+      flex-direction: column;
+      flex-wrap: wrap;
+      flex-basis: 100px;
+      
 }
-#ele{
-    font-weight: bolder;
-    font-size: 4rem;
-}
-.main{
-    display: inline-block;
-}
-body{
-    width: 40%;
-}
-.flow{
-    width: 200px;
-    height: 200px;
-    float: left;
-}
-.cons{
-    width: 200px;
-    height: 200px;
-    float: right;
+.h1{
+    font-size: 2rem;
 }
