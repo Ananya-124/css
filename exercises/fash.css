@@ -2,11 +2,16 @@
       display: flex;
       background-color: yellow;
       gap: 10px;
-      flex-direction: column;
-      flex-wrap: wrap;
-      flex-basis: 100px;
+      padding: 10px;}
+      li{
+        list-style: none;
+      }
+    
       
-}
-.h1{
-    font-size: 2rem;
+      
+      
+
+p{
+font-weight: 700;
+margin: 0;
 }
